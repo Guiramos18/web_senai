@@ -1,0 +1,50 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 70px;
+
+}
+.verde {
+    color: green;
+    background-color: gray;
+    font-size: 36px;
+}
+
+.vermelho {
+    color: red;
+    background-color: gray;
+    text-align: center;
+    font-size: 36px;
+}
+
+.azul {
+    color: blue;
+    background-color: gray;
+    text-align: end;
+    font-size: 36px;
+}
+
+.roxo {
+    color: purple;
+    background-color: gray;
+    text-align: center;
+    font-size: 36px;
+}
+.amarelo {
+    color: yellow;
+    background-color: gray;
+    text-align: left;
+    font-size: 36px;
+}
+.rosa {
+    color: pink;
+    background-color: gray;
+    text-align: center;
+    font-size: 36px;
+}
+ul {
+    background-color: white;
+}
