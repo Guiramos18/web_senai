@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+.verde {
+    height: 100px;
+    width: 100%;
+    background-color: green;
+    display: inline-block;
+}
+
+.azul {
+    height: 200px;
+    width: 49.7%;
+    background-color: blue;
+    display: inline-block;
+}
+
+.amarelo {
+    height: 200px;
+    width: 49.7%;
+    background-color: yellow;
+    display: inline-block;
+    float: right;
+}
+
+.verde2 {
+    height: 100px;
+    width: 100%;
+    background-color: green;
+    display: inline-block;
+}
